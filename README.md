@@ -11,7 +11,7 @@ I am a beginner Java developer. I am studying at Hexlet on the Java developer co
   * write message in Telegram: @AlexB090223
 
 ### Skills
-- Java, Gradle, Git, JUnit 5, TDD
+- Java, Gradle, Git, GitHub Actions, JUnit 5, TDD
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
