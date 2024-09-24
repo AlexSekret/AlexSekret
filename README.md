@@ -6,9 +6,9 @@ Junior Java-developer
 
 I am a beginner Java developer. I am studying at Hexlet on the Java developer course. I enjoy studying, gaining new knowledge and skills. Responsible and executive, curious.
 
-* You can contact me:
-  * write e-mail to alexsekret3@gmail.com
-  * write message in Telegram: @AlexB090223
+### You can contact me:
+- e-mail: alexsekret3@gmail.com
+- Telegram: @AlexB090223
 
 ### Skills
 - Java, Gradle, Git, GitHub Actions, JUnit 5, TDD
